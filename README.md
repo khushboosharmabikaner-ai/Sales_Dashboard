@@ -52,7 +52,7 @@ Keep the `.pbix` file private if it embeds personal customer data. If you share 
 
 ## View the project
 
-1. Open the sanitized `Sales Dashboard.pbix` file in Power BI Desktop.
+1. Open the sanitized` Sales Dashboard.pbix` file in Power BI Desktop.
 2. Choose a page from the report tabs.
 3. Use the slicers and visual interactions to filter and compare the data.
 
