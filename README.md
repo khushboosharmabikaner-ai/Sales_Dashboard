@@ -56,6 +56,9 @@ Keep the `.pbix` file private if it embeds personal customer data. If you share 
 2. Choose a page from the report tabs.
 3. Use the slicers and visual interactions to filter and compare the data.
 
-## Screenshot
-
-Add a screenshot of the finished report after checking that no customer identifying information is visible.
+## Screenshots
+![sales dashboard analysis](sales_dashboard_analysis.png) 
+![comparison](comparison.png)
+![overview](overview.png)
+![sales dashboard table visual](sales_dashboard_table_visual.png)
+![sales dashboard](sales_dashboard.png)
